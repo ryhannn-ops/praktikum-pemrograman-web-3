@@ -46,7 +46,7 @@ export default function Navbar() {
               <div className="text-white">
                 <h2 className="text-2xl font-bold mb-4 text-purple-400">About Me</h2>
                 <p className="text-gray-300 mb-4">
-                  Hi, I'm Muplih 👋 Web Developer & Law Student who builds modern web applications.
+                  Hi, I'm Muplih 👋 Web Developer & Network Engineer who builds modern web applications.
                 </p>
                 <p className="text-gray-400 mb-4">
                   Passionate in technology, UI/UX, and education. Currently learning Next.js and building LMS platform.
